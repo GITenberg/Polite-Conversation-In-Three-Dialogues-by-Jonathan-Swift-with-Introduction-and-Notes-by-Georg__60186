@@ -1,0 +1,36 @@
+_repo: Polite-Conversation-In-Three-Dialogues-by-Jonathan-Swift-with-Introduction-and-Notes-by-Georg__60186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2019-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Polite Conversation
+
+  In Three Dialogues by Jonathan Swift with Introduction and
+
+  Notes by George Saintsbury'
+url: http://www.gutenberg.org/ebooks/60186
